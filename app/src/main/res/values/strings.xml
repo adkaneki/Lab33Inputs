@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab 3.3 Inputs</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="smoker">Smoker?</string>
+    <string name="premium">Premium</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="reset">RESET</string>
+    <string-array name="age_group">
+        <item>Less than 5</item>
+        <item>5 to 10</item>
+        <item>11 to 16</item>
+        <item>17 to 21</item>
+        <item>22 to 30</item>
+        <item>31 to 40</item>
+        <item>41 to 50</item>
+        <item>More than 50</item>
+    </string-array>
+</resources>
